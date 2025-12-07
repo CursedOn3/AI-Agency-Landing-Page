@@ -11,7 +11,7 @@ export default function Features() {
           We combine expertise with innovation to deliver AI solutions that drive real results for your business.
         </p>
       </div>
-      <div className="grid grid-cols-1 gap-6">
+      <div className="grid grid-cols-1 gap-6 max-w-2xl mx-auto">
         <div className="flex items-start gap-4 ">
           <div className="flex size-12 shrink-0 items-center justify-center rounded-full bg-neon-blue/10 border border-neon-blue/30">
             <span className="material-symbols-outlined text-neon-blue">groups</span>
