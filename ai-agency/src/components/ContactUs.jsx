@@ -2,7 +2,7 @@ import React from "react";
 
 export default function ContactForm() {
   return (
-    <section className="p-4 py-16">
+    <section id="contact" className="p-4 py-16">
       <h2 className="text-white text-3xl font-bold text-center mb-8 uppercase tracking-wider">
         LETS GET CONNECTED
       </h2>
@@ -21,12 +21,12 @@ export default function ContactForm() {
           
           <div>
             <h4 className="font-semibold mb-2 text-white/80">Phone:</h4>
-            <p className="text-white/70 pl-4">+977-9865005564</p>
+            <p className="text-white/70 pl-4">+977-980000000</p>
           </div>
           
           <div>
             <h4 className="font-semibold mb-2 text-white/80">Email</h4>
-            <p className="text-white/70 pl-4">Sujibh18@gmail.com</p>
+            <p className="text-white/70 pl-4">contactouragency@gmail.com</p>
           </div>
         </div>
 
